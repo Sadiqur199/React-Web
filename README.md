@@ -1,8 +1,12 @@
-# React + Vite
+# React Web Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+This project is simple landing page ... this page built using **React.js**and **tailwind css** and **React Router Dom V6** .
 
-Currently, two official plugins are available:
+## Technologies Used
+- **React.js**: A JavaScript library for building user interfaces.
+- **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
+- **HTML5/CSS3**: For structure and styling.
+- **JavaScript**: For dynamic interactions and state management.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [React Web Page](https://venerable-fenglisu-e4b593.netlify.app/)
