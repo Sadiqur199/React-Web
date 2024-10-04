@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base{
+  .bg-hero-pattern{
+    background-image: url('https://i.ibb.co.com/Q6yvpsF/image.png');
+  }
+}
